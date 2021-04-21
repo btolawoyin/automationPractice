@@ -18,7 +18,7 @@ The solution is for a simple automation project for the following:
 2. Updating of the user's personal information in an account pre-created.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+!(/ExecutionReport.jpg)
 
 ## Technologies
 * IntelliJ - version 2020.2 (Community Edition)
@@ -30,10 +30,10 @@ The solution is for a simple automation project for the following:
 * Chrome Web Driver
 
 ## Setup
-1. Log into GitHub and access the Repository: http://github.com/btolawoyin
+1. Log into GitHub and access the Repository: https://github.com/btolawoyin/automationPractice
 2. Access the repository named: AutomationPractice
-3. Create a Pull Request and download the code to your IDE and ensure the right Jave SDK is selected in the IDE
-4. Run the independent scenarios.
+3. Create a Pull Request and download the code to your IDE and ensure the right Java SDK is selected in the IDE
+4. Run the independent scenarios from "src/test/resources/features/webTest.feature"
 5. View the Execution Report
 
 ## Features
