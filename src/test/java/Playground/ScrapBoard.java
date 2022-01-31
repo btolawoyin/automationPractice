@@ -18,6 +18,7 @@ public class ScrapBoard {
                 break;
             default:
                 System.out.println("Weekend");
+                System.out.println("Weekend");
         }
     }
 }
